@@ -421,10 +421,6 @@ a {
 
 .about {
   padding: 55px 15px;
-  /* background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-image: url(/image/about/about.png); */
   margin: auto;
   display: flex;
   align-items: center;
@@ -466,7 +462,6 @@ a {
   text-decoration-skip-ink: none;
 
   padding-bottom: 10px;
-  /* border-bottom: 1px solid #c4c4c4; */
 }
 .hr-about {
   border: none;
@@ -501,7 +496,6 @@ a {
   flex-direction: column;
   align-items: center;
   gap: 40px;
-  /* width: 256px; */
 }
 
 .feature {
@@ -538,8 +532,6 @@ a {
   text-align: center;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
-
-  /* width: 216px; */
 }
 
 @media screen and (min-width: 1200px) {
@@ -617,7 +609,7 @@ a {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    /* gap: 95px; */
+
     width: 1296px;
     padding-top: 56px;
   }
@@ -644,7 +636,6 @@ a {
 .services-item {
   margin: auto;
   width: 345px;
-  /* height: 358px; */
 
   padding: 34px 26px;
   gap: 15px;
@@ -706,7 +697,6 @@ a {
     text-align: center;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
-    width: 338px;
 
     padding: 25px 0 28px;
   }
@@ -890,8 +880,6 @@ a {
     text-align: left;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
-
-    /* padding-top: 16px; */
   }
   .contacts-image {
     padding-top: 0;
@@ -1001,7 +989,6 @@ a {
   .contact-img-container {
     margin: auto;
     width: 1368px;
-    /* padding: 0 13px 34px 17px; */
   }
   .contact-img-container-text {
     width: 1368px;
@@ -1097,8 +1084,6 @@ a {
   text-align: center;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
-
-  /* padding: 10px 15px 10px 15px; */
 }
 @media screen and (min-width: 1200px) {
   .devis {
@@ -1284,7 +1269,6 @@ a {
 }
 .email-link {
   color: inherit;
-  /* text-decoration: none; */
 }
 
 @media screen and (min-width: 1200px) {
